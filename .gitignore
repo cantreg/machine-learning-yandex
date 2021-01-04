@@ -1,0 +1,10 @@
+*.iml
+.idea/
+data/
+venv/
+*.zip
+*.csv
+*.jpg
+*.txt
+*.xlsx
+*.html
